@@ -140,7 +140,7 @@ main section{
 
 .skills-container{
     display: flex;
-    justify-content:;
+    
     gap: 24px;
 }
 .skill{
@@ -180,7 +180,7 @@ footer{
     gap: 100px;
 }
 .footer-column{
-    width:50%
+    width:50%;
 }
 
 footer input[type="text"],footer input[type="email"],footer textarea{
@@ -191,6 +191,6 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     width:100%;
     padding: 10px 20px;
     margin-bottom: 24px;
-    border: ;
+    border:none ;
 }
 
